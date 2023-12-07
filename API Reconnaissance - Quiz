@@ -1,0 +1,61 @@
+API Reconnaissance - Quiz (notes)
+
+Question 1
+Which of these headers is the best indicator of a web API?
+
+Content-Type: application/json
+
+
+Question 2
+Which tool is best for exploring old versions of API documentation?
+
+The Wayback Machine
+
+
+Question 3
+Which Amass command will actively scan a target?
+
+$amass enum -active -brute -w /usr/share/wordlists/API_superlist -d example.com -dir [directory name]
+
+
+Question 4
+What attributes are associated with Partner APIs?
+
+
+Documentation may not be public and access to the API is likely restricted
+
+
+Question 5
+Which of the following attributes are associated with Private APIs?
+
+Out of all the API types, documentation could be the most difficult to find
+
+
+Question 6
+Which of the following tools is the worst for passively detecting APIs?
+
+Nmap
+
+
+Question 7
+Which of the following tools would be best for actively detecting APIs?
+
+Kiterunner
+
+
+Question 8
+How can DevTools help analyze APIs?
+
+The network module can reveal API endpoints
+
+
+Question 9
+What information about APIs can be discovered through passive reconnaissance techniques?
+
+All of the above
+
+
+Question 10
+Which of the following tools cannot help discover endpoints without a specification file?
+
+Netcat
