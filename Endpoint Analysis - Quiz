@@ -1,0 +1,30 @@
+Endpoint Analysis - Quiz
+
+Question 1
+Which tool can be used to visualize API documentation?
+
+Swagger Editor
+
+
+Question 2
+What command line tool can be used to proxy web traffic?
+
+Mitmweb
+
+
+Question 3
+When using Postman, which authorization method allows you to retrieve authorization from the top level of a collection?
+
+Inherit Auth From Parent
+
+
+Question 4
+Which API vulnerability is associated with sharing too much information with an end-user?
+
+API3:2019 Excessive Data Exposure
+
+
+Question 5
+Which of the following is a method for constructing an API collection with Postman?
+
+Using the Capture Requests Proxy
