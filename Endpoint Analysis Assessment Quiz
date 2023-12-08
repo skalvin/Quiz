@@ -1,0 +1,29 @@
+Endpoint Analysis Assessment Quiz
+
+
+When using vAPI, which fields are documented for the POST request to /vapi/api1/user?
+
+username
+course
+password
+name
+
+
+Which request methods are documented for /vapi/api1/user?
+
+GET
+PUT
+POST
+
+Which of the following response headers are returned with a successful request to /vapi/api1/user?
+
+
+Content-Type
+X-Powered-By
+Cache-Control
+Host
+
+
+Which vAPI endpoint is used to get the flag for Insufficient Logging & Monitoring?
+
+API10
