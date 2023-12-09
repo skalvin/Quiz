@@ -1,0 +1,18 @@
+Scanning APIs - Quiz
+
+Question 1
+In the current state of API security, which vulnerability do automated scanners detect?
+
+API7:2019 Security Misconfiguration
+
+
+Question 2
+What kind of results can a generic vulnerability scan of a web API lead to?
+
+False-Negative
+
+
+Question 3
+Which of the following should not be categorized under API7:2019 Security Misconfiguration?
+
+Ability to access other resources of other users
