@@ -1,0 +1,43 @@
+API Authentication Attacks - Quiz
+
+
+Question 1
+Password spraying is a classic authentication attack where an attacker will...
+
+Attempt to authenticate using a long list of users and a short list of targeted passwords
+
+
+Question 2
+Which Burp Suite module is ideal for performing a password-spraying attack?
+
+Intruder
+
+
+Question 3
+Which Burp Suite feature should be used to Base64 encode Intruder payloads?
+
+Payload Processing
+
+
+Question 4
+Which of the following methods can help you detect anomalous responses?
+
+All of the above
+
+
+Question 5
+Which of the following JSON Web Token Toolkit commands will attempt to crack the secret key?
+
+$jwt_tool eyJhbGci... -C -d wordlist.txt
+
+
+Question 6
+Which of the following JSON Web Token Toolkit commands will attempt to automatically scan against an application?
+
+$jwt_tool eyJhbGci... -t http://crapi.apisec.ai -M pb
+
+
+Question 7
+Which Burp Suite module can be useful for identifying and analyzing tokens?
+
+Sequencer
