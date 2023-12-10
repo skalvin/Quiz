@@ -1,0 +1,18 @@
+API Authentication Attacks Assessment - Quiz
+
+
+True or False: The following resources are helpful when testing vAPI for API authentication weaknesses.  (https://github.com/roottusk/vapi/tree/master/Resources/API2_CredentialStuffing)
+
+check_boxTrue
+
+
+When using the credentials found in API2_CredentialStuffing to attack http://vapi.apisec.ai/vapi/api2/user/login, which three email domain names were compromised?
+
+check_boxyahoo.com
+check_boxortiz.com
+check_boxbeatty.info
+
+
+Which of the following is the flag for sending a successful GET request to http://vapi.apisec.ai/vapi/api2/user/details?   
+
+check_boxapi2_6bf2beda61e2a1ab2d0a
