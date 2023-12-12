@@ -1,0 +1,33 @@
+Mass Assignment - Quiz
+
+Question 1
+Mass Assignment vulnerabilities are present when an attacker is able to...
+
+
+Overwrite object properties that they should not be able to
+
+
+Question 2
+Which of the following is required for a mass assignment vulnerability to be present?
+
+An API must be lacking user input validation
+
+
+Question 3
+Which of the following often helps the most in discovering parameter names to use in a Mass Assignment attack?
+
+Admin API Documentation
+
+
+Question 4
+Which of the following crAPI URLs is vulnerable to Mass Assignment?
+
+
+http://crapi.apisec.ai/workshop/api/shop/products
+
+
+Question 5
+What is the impact of the crAPI mass assignment vulnerability?
+
+
+An attacker can arbitrarily add funds to their account
