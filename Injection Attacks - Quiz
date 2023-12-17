@@ -1,0 +1,43 @@
+Injection Attacks - Quiz
+
+Question 1
+Which of the following is not a type of injection attack
+
+Authorization Injection
+
+
+Question 2
+Which tool is ideal for fuzzing across an entire API?
+
+Postman Collection Runner
+
+
+Question 3
+Which anomalous status code resulted in the discovery of an injection vulnerability in crAPI?
+
+422
+
+
+Question 4
+Which of the following attacks was crAPI vulnerable to?
+
+NoSQL Injection
+
+
+Question 5
+Which of the following should not be fuzzed for an injection vulnerability?
+
+Parameters in POST/PUT responses
+
+
+Question 6
+Which of the following would not be useful for detecting a successful injection attack?
+
+
+An HTTP 208 Already Reported response
+
+
+Question 7
+Which of the following tools is ideal for fuzzing deep into an individual request?
+
+Burp Suite Intruder
