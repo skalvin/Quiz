@@ -1,0 +1,43 @@
+Server-Side Request Forgery - Quiz
+
+
+Question 1
+What is the most significant driver of SSRF bounty payouts?
+
+The severity of the impact
+
+
+Question 2
+What is the most significant feature of In-Band SSRF?
+
+The content of the URL supplied is displayed back in a response
+
+
+Question 3
+What is the most significant feature of a Blind SSRF?
+
+The target makes a request to the provided URL, but the app does not provide a response back
+
+
+Question 4
+Which of the following sites will not help with a blind SSRF attack?
+
+ipchicken.com
+
+
+Question 5
+Which of the following would be an indication that a blind SSRF was successful?
+
+A record of a unique request is made by a server that you supplied a unique URL to
+
+
+Question 6
+Which of the following is not useful for testing if SSRF if present?
+
+Requests that include the resources of other users
+
+
+Question 7
+Which of the following would not be useful for a payload when testing for SSRF?
+
+' OR 1=1
